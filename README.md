@@ -1,2 +1,2 @@
 # forcebuds.github.io
-forcebuds site
+This is the repo for the [forcebuds](http://forcebuds.com) site.
